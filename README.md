@@ -2,6 +2,12 @@
 This GitHub repo contains all of the Code Along Notebooks for the entire certificate program. These code along notebooks are for your learning only; they are not graded. We provide them so that you can follow along "Live Coding Lectures" with your own person code along notebook, allowing you to write and run code while you watch the lecture. 
 
 ---
+### Practice Set 1
+If you're completeing practice set 1, you're done. Copy the URL above and submit it to canvas. 
+
+Follow the instructions below when you want to access code along notebooks while watching lectures or for review.
+
+---
 
 # How to Open a Code Along Notebook
 
