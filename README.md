@@ -28,7 +28,7 @@ In these instructions, replace `<yourUserNameHere>` with your exact GitHub usern
 3. **Open the notebook in Google Colab.** Your repo contains many `.ipynb` notebook files in folder that match the certificate programs courses and modules. To launch a notebook:
 
    - **Option A** — Edit the following link with your GitHub username and the notebook filename, then follow the link:
-     `https://colab.research.google.com/github/yse-eds-cert/code_along_notebook-<yourUserNameHere>/blob/main/<notebook_name>.ipynb`
+     `https://colab.research.google.com/github/yse-eds-cert/code-along-notebook-<yourUserNameHere>/blob/main/<notebook_name>.ipynb`
      *(Replace `<yourUserNameHere>` with your username and `<notebook_name>` with the name of the notebook file.)*
       1. You can find the `<notebook_name>` you need both in canvas and by clicking to the course you're in, the module of that course, and finding the notebook associated with the lecture that you're on. 
 
